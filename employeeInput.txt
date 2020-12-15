@@ -1,0 +1,20 @@
+{
+    "employeeFirstName":"Pramod",
+    "employeeLastName":"satish",
+    "employeePhone":"123456789",
+    "employeeEmailId":"aPviash00@gmail.com",
+    "employeeMobile":"9604586253",
+    "employeeJoinDate":"22-02-2020",
+    "company":{
+            "companyId":1,
+            "companyName":"TATA"
+    },
+    "department":{
+        "departmentId":1,
+        "departmentName":"IT"
+    },
+    "designation":{
+        "designationId":1,
+        "designationType":"JAVA DEVELOPER"
+    }
+}

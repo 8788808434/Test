@@ -1,0 +1,112 @@
+{
+    "status": "success",
+    "jwt": null,
+    "reasonCode": null,
+    "reasonText": null,
+    "responseObject": {
+        "employeeId": 17,
+        "employeeFirstName": "Pramod",
+        "employeeLastName": "Patil",
+        "employeePhone": "123456789",
+        "employeeEmailId": "avinash00@gmail.com",
+        "employeeMobile": "9604586253",
+        "employeeJoinDate": "363-12-2020",
+        "company": {
+            "companyId": 1,
+            "companyName": "TATA"
+        },
+        "department": {
+            "departmentId": 1,
+            "departmentName": "IT"
+        },
+        "designation": {
+            "designationId": 1,
+            "designationType": "JAVA DEVELOPER",
+            "department": null
+        },
+        "personalInfo": {
+            "personalInfoId": 18,
+            "personalInfoPassportNo": "A2096457",
+            "personalInfoPassportExpiryDate": "360-12-2022",
+            "personalInfoTelephone": "123456789",
+            "profileInfoNationality": "INDIAN",
+            "profileInfoReligion": "HINDU",
+            "profileInfoMaritalStatus": "SINGLE",
+            "profileInfoEmploymentOfSpouse": "YES",
+            "profileInfoNoOfChildren": "2"
+        },
+        "bankInfo": null,
+        "EmergencyContact": [
+            {
+                "contactId": 19,
+                "contactName": "AVINASH",
+                "contactRelationship": "son",
+                "contactNo1": "9372915671",
+                "contactNo2": "8788808434"
+            },
+            {
+                "contactId": 20,
+                "contactName": "SUREKHA",
+                "contactRelationship": "WIFE",
+                "contactNo1": "9604586253",
+                "contactNo2": "8796960924"
+            }
+        ],
+        "familyInfo": [
+            {
+                "familyInfoId": 24,
+                "familyInfoName": "SUREKHA",
+                "familyInfoRelationship": "WIFE",
+                "familyInfoDateOfBirth": "360-12-1972",
+                "familyInfoPhoneno": "8788808434"
+            }
+        ],
+        "educationalInfo": [
+            {
+                "educationalInfoId": 21,
+                "educationalInfoSubject": "str",
+                "educationalInfoDateStartingDate": "22/02/2014",
+                "educationalInfoDateCompleteDate": "23/05/2018",
+                "educationalInfodegree": "ME",
+                "educationalInfograde": "A"
+            },
+            {
+                "educationalInfoId": 22,
+                "educationalInfoSubject": "asd",
+                "educationalInfoDateStartingDate": "22/02/2014",
+                "educationalInfoDateCompleteDate": "23/05/2018",
+                "educationalInfodegree": "ME",
+                "educationalInfograde": "A"
+            }
+        ],
+        "experienceInfo": [
+            {
+                "experienceInfoId": 23,
+                "experienceInfoCompanyName": "ATLAS",
+                "experienceInfoCompanyLocation": "PUNE",
+                "experienceInfoJobPosition": "PUNE",
+                "experienceInfoPeriodFrom": "364-12-2019",
+                "experienceInfoPeriodTo": "363-12-2020"
+            }
+        ],
+        "emergencyContact": [
+            {
+                "contactId": 19,
+                "contactName": "AVINASH",
+                "contactRelationship": "son",
+                "contactNo1": "9372915671",
+                "contactNo2": "8788808434"
+            },
+            {
+                "contactId": 20,
+                "contactName": "SUREKHA",
+                "contactRelationship": "WIFE",
+                "contactNo1": "9604586253",
+                "contactNo2": "8796960924"
+            }
+        ],
+        "profileInfo": null
+    },
+    "totalRecords": null,
+    "responseListObject": null
+}

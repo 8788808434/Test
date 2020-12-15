@@ -1,0 +1,41 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/HRMS?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
+    username:root
+    password:root
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    properties.hibernate.dialect : org.hibernate.dialect.MySQL8Dialect
+	
+	
+	id1:
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTAyMjc2LCJleHAiOjE2MDgzNjYyMzB9
+	.39isWxKgYzQOPEvz9qKMfscEJaSYSbSR1Lq2B7OoUPb2yeWXIC0e5GYcz5vqoAsAM78zaOOBfqGGHi4c_ipV-Q
+	
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTAyMjc2LCJleHAiOjE2MDgzNjYyMzB9
+	.39isWxKgYzQOPEvz9qKMfscEJaSYSbSR1Lq2B7OoUPb2yeWXIC0e5GYcz5vqoAsAM78zaOOBfqGGHi4c_ipV-Q
+	
+	
+	
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTA5Mzk3LCJleHAiOjE2MDgzNzMzNTZ9
+	.wl81lUJTOfeT1g5X13LRxSLMfH4mI--68b_gK3aqJJAeel3Qf_NPCoaUj76p8tGewMpUTOKYuO_vPqzJSr8pcg
+	
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTAyMjc2LCJleHAiOjE2MDgzNjYyMzB9
+	.39isWxKgYzQOPEvz9qKMfscEJaSYSbSR1Lq2B7OoUPb2yeWXIC0e5GYcz5vqoAsAM78zaOOBfqGGHi4c_ipV-Q
+	
+	
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTA5Nzg5LCJleHAiOjE2MDgzNzM3Nzl9
+	.OQKIlrwCW3By8D31dHf1Zjt0vyGX69XyG6LQlFnoYOLQTABeYGaPSEEN3swXdj2YUH_kCNPlhmruffDZTysSaA
+	
+	eyJhbGciOiJIUzUxMiJ9
+	.eyJzdWIiOiIxIiwiaWF0IjoxNjA3NTA5Nzg5LCJleHAiOjE2MDgzNzM3Nzl9
+	.OQKIlrwCW3By8D31dHf1Zjt0vyGX69XyG6LQlFnoYOLQTABeYGaPSEEN3swXdj2YUH_kCNPlhmruffDZTysSaA
+
